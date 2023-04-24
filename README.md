@@ -1,4 +1,4 @@
 # Just
-![Profile](https://user-images.githubusercontent.com/102718510/233964441-f4fdbca7-f040-425c-bf91-26250ae746f1.png)
-![Cart](https://user-images.githubusercontent.com/102718510/233964457-a6ad07f7-33f9-4703-b4ab-2a03fe0520e4.png)
-![Catalog](https://user-images.githubusercontent.com/102718510/233964464-88d6f640-4e31-4c69-bf10-d2409c9bd4bb.png)
+
+<img src= "https://user-images.githubusercontent.com/102718510/233964637-18b6bde2-81aa-453f-8161-ebc1839b938d.png" width="400" height="900">  <img src= "https://user-images.githubusercontent.com/102718510/233966185-9fc6cbe3-cf00-46d8-9662-ebef08523139.png" width="400" height="900">  <img src= "https://user-images.githubusercontent.com/102718510/233967292-4fb7a043-2432-4c00-a3fb-53494e88a8e8.png" width="400" height="900">
+
