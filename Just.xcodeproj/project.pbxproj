@@ -74,8 +74,8 @@
 		F506BB87299CFE6B00ED2E03 /* Just */ = {
 			isa = PBXGroup;
 			children = (
-				F506BB98299CFE7E00ED2E03 /* View */,
 				F506BB96299CFE7E00ED2E03 /* Model */,
+				F506BB98299CFE7E00ED2E03 /* View */,
 				F5D1BA1E29CC461100974E6E /* Resources */,
 			);
 			path = Just;
